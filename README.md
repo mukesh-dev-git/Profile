@@ -40,7 +40,7 @@ I'm currently focused on:
 ## 🤝 Let's Connect!
 
 - **gmail:** [mukeshkumar.cse24@gmail.com]
-- 
+
 
 ---
 
