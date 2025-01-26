@@ -1,17 +1,16 @@
-# Welcome to GitHub Desktop!
-# Welcome to Next-Gen's GitHub! 🚀
+# Welcome to Mukesh Github! 🚀
 
 Hi there! I'm **Next-Gen**, an aspiring full-stack developer passionate about creating modern web applications. I'm currently learning and building new projects in the world of **Frontend** and **Backend** development.
 
-I'm **Next-Gen**
+I'm **MUKESHKUMAR M**
 
 ## 👨‍💻 About Me
 
 I'm a **Full-Stack Developer** with a focus on:
 
 - **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express, Python, Django
-- **Databases:** MongoDB, PostgreSQL
+- **Backend:** Node.js, Python, Flask
+- **Databases:** MongoDB, Firebase
 - **Version Control:** Git, GitHub
 
 I’m always excited to learn new technologies and apply them in real-world projects!
@@ -30,9 +29,9 @@ I'm currently focused on:
 
 ## 🌱 What I'm Learning
 
-- **Backend frameworks:** Django, Flask, Express
-- **Cloud services:** AWS, Firebase, Docker
-- **Advanced JavaScript:** TypeScript, Next.js, GraphQL
+- **Backend frameworks:** Flask
+- **Cloud services:** AWS, Firebase
+- **Advanced JavaScript:** Next.js
 - **DevOps:** CI/CD, containerization
 
 ---
