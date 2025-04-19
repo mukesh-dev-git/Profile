@@ -1,6 +1,6 @@
 # Welcome to Mukesh Github! 🚀
 
-Hi there! I'm **Next-Gen**, an aspiring full-stack developer passionate about creating modern web applications. I'm currently learning and building new projects in the world of **Frontend** and **Backend** development.
+Hi there! I'm **Mukesh**, an aspiring full-stack developer passionate about creating modern web applications. I'm currently learning and building new projects in the world of **Frontend** and **Backend** development.
 
 I'm **MUKESHKUMAR M**
 
